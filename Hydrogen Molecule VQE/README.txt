@@ -1,6 +1,6 @@
 
 This is the code for the VQE for a hydrogen molecule I worked on as a senior project in 2020, based 
-Mostly on data from O'Malley et al. The code uses IBM's quantum machine so will require an 
+Mostly on data from O'Malley et al(2016). The code uses IBM's quantum machine so will require an 
 IBM account on disk to run. The results can then be plotted into a heat map or 3d map. The breakdown of 
 The files follows:
 
